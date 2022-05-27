@@ -21,5 +21,5 @@ y entender tus necesidades mejor que nadie.
 
 
 ____________________________________________________
-[Build using Markdown syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-[wiki](https://testmn.tiddlyhost.com/)
+[Build using markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+ [Wiki](https://testmn.tiddlyhost.com/#Proj%20Docu)
